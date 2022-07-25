@@ -14,3 +14,4 @@ joblib==0.14.1
 nbdime==2.1.1
 click>=5.1
 collection==0.1.6
+torch==1.12.0
